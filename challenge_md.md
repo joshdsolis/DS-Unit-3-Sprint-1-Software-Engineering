@@ -231,9 +231,17 @@ career here, you'll have to answer the following:
 - What, in your opinion, is an important part of code reviews? That is, what is
   something you pay attention to when you review code, and that you appreciate
   when others do the same for your code?
+  - I pay attention to the organization and structure of it. It looks nice to me 
+    if all the indentations are in order and lines are spaced out. I appreciate when
+    others check me for the same things that I think look nice. Another thing is if it just runs,
+    if it runs it's already halfway a success in my opinion.
 - We have an awful lot of computers here, and it gets pretty confusing with
   slightly different things running on all of them. How could containers help us
   improve this situation?
+  - With containers we can create environments for specific tasks. We don't have to 
+    mix or mess up previous code or files. With the container we're given a place
+    with some freedom albeit with some limitations as well. Containers would allow us to try out
+    code or install things without crashing into other previous things in code.
 
 Answer both of these questions (baseline ~5 sentences) here in text.
 
